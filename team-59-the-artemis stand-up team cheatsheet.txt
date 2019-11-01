@@ -1,0 +1,33 @@
+team-59-the-artemis stand-up team cheatsheet
+
+
+morning session with stand-up team
+1. say hi to every one
+2. use the sorting hat to select a presenter (/sorting_hat)
+3. the chosen student presents 2-5 commits of their latest work (10 min), send the link
+4. everybody reviews presented code individually (5 min)
+5. fill out the issues page
+
+
+daily stand-up meeting
+1. what did you accomplish today?
+2. what are your goals for tomorrow?
+3. what obstacles are standing in my way?
+
+
+team-59-the-artemis suggestions
+
+didymus orotayo
+eleazar meza
+ermin cahtarevic
+firmo holanda
+
+
+readme.md
+https://github.com/othneildrew/Best-README-Template
+
+
+
+cool links:
+https://x-team.com/
+
